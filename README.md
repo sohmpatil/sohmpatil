@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Master of Science in Computer Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://sohmpatil.github.io/portfolio-website/](https://sohmpatil.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://github.com/sohmpatil](https://github.com/sohmpatil)
 
 - 📫 How to reach me **sohampatil@asu.edu**
 
